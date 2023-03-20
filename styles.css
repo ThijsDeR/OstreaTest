@@ -2,6 +2,8 @@ body {
     background-color: black;
     color: white;
     transition: 2s ease-in;
+    position: fixed;
+    inset: 0px;
 }
 
 body:hover {
