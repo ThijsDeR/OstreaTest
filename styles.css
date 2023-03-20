@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+    transition: 2s ease-in;
+}
+
+body:hover {
+    background-color: red;
+    color: blue;
+}
+
